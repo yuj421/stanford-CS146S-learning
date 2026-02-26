@@ -21,8 +21,8 @@
     * OpenAI 官方论文，揭秘其内部开发者是如何在真实环境中使用 Codex 辅助编程的。
 
 ## 🗓️ 课程日历与课件 (Schedule & Slides)
-*   **9 月 22 日（周一）**：简介及 LLM 制造原理 (Introduction and how an LLM is made) - *Slides 中文PPT*。
-*   **9 月 26 日（周五）**：LLM 的高效强力提示 (Power prompting for LLMs) - *Slides 中文PPT*。
+*   **9 月 22 日（周一）**：简介及 LLM 制造原理 (Introduction and how an LLM is made) - *Slides PPT*。
+*   **9 月 26 日（周五）**：LLM 的高效强力提示 (Power prompting for LLMs) - *Slides PPT*。
 
 ## 💻 课后作业 (Assignment)
 *   **LLM 提示词实践平台 (LLM Prompting Playground)**
