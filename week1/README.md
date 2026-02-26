@@ -11,12 +11,16 @@
 ## 📚 阅读材料 (Reading List)
 *   **深入探究 LLM (Deep Dive into LLMs)**
     * 包含 Andrej Karpathy 对大语言模型底层原理长达数小时的硬核讲解。
+    * https://www.bilibili.com/video/BV16cNEeXEer/
 *   **提示工程概述 (Prompt Engineering Overview)**
     *来自 Google 等机构的经典提示词工程理论概览。
+    https://cloud.google.com/discover/what-is-prompt-engineering
 *   **提示工程指南 (Prompt Engineering Guide)**
     * 系统化掌握提示词技巧的实战指南。
+    * https://www.promptingguide.ai/techniques
 *   **AI 提示工程深度探究 (AI Prompt Engineering: A Deep Dive)**
     * 针对 AI 提示词在开发场景下的深度挖掘。
+    * https://www.bilibili.com/video/BV18ukBYzEQG/
 *   **OpenAI 如何使用 Codex (How OpenAI Uses Codex)**
     * OpenAI 官方论文，揭秘其内部开发者是如何在真实环境中使用 Codex 辅助编程的。
 
